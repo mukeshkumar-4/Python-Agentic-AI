@@ -1,4 +1,4 @@
-# Python Chapter-1 Assignment
+# Python Chapter-2 Assignment
 
 ## 1. Task 1 – Python Data Structures
     - List methods

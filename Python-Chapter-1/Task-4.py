@@ -16,7 +16,7 @@ while wrong_guesses < max_attempts:
 
     for letter in word:
         if letter in guessed_letters:
-            display_word += letter + " "    
+            display_word += letter + " "
         else:
             display_word += "_ "
 
